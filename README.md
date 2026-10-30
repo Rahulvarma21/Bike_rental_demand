@@ -1,13 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Analyze Bike Rental Demand with Python
-
-**Project Link:** [View Project](https://nextwork.ai/projects/98164b1c-45ed-491d-b391-b4fe7190463d)
-
-**Author:** Chamarthi Raahul  
-**Email:** 99230041298@klu.ac.in
-
----
 
 ![Image](https://nextwork.ai/chamarthi-raahul/uploads/98164b1c-45ed-491d-b391-b4fe7190463d_lsm215tl)
 
@@ -93,7 +84,3 @@ It took me around 3–4 hours to complete the project, including data analysis, 
 ### Next steps in my learning journey
 
 I completed this project today to learn how to analyze data, develop my own business questions, and use data-driven insights to answer them. It helped me understand how to identify demand patterns and turn my findings into practical business recommendations.
-
----
-
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/98164b1c-45ed-491d-b391-b4fe7190463d)*
